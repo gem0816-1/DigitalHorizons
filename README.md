@@ -250,7 +250,3 @@ npm run preview
 
 - 英文开发文档：[`docs/en/developer-guide.md`](./docs/en/developer-guide.md)
 - 中文开发文档：[`docs/zh-cn/developer-guide.md`](./docs/zh-cn/developer-guide.md)
-
-## License
-
-当前仓库尚未声明开源许可证。
