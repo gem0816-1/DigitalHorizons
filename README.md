@@ -74,7 +74,7 @@ VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
 - 添加仅允许用户访问自己数据的策略
 - 通过触发器自动维护 `updated_at`
 
-如果 Supabase 认证已经可用，但 `saved_builds` 表尚未创建，装机方案的增删改查会自动回退到浏览器 `localStorage`，而不是直接报错。
+如果 Supabase 认证已经可用，但 `saved_builds` 表尚未创建，装机方案的增删改查会自动回退到浏览器 `localStorage`.
 
 ### 启动开发服务器
 
