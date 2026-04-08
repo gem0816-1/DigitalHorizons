@@ -1,8 +1,8 @@
-# 数码视界 Dashboard
+# 数码视界
 
 [English](./README.en-US.md)
 
-数码视界 Dashboard 是一个基于 React + TypeScript 的数码硬件信息应用，用来查看移动 SoC 数据、进行芯片横向对比，并完成 PC 装机方案规划。项目把仓库内的静态硬件数据与 Supabase 认证结合起来，让用户可以保存并回看自己的装机方案。
+数码视界 是一个基于 React + TypeScript 的数码硬件信息应用，用来查看移动 SoC 数据、进行芯片横向对比，并完成 PC 装机方案规划。项目把仓库内的静态硬件数据与 Supabase 认证结合起来，让用户可以保存并回看自己的装机方案。
 
 ## 功能概览
 
