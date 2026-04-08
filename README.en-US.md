@@ -122,7 +122,3 @@ npm run preview
 
 - English developer guide: [`docs/en/developer-guide.md`](./docs/en/developer-guide.md)
 - Chinese developer guide: [`docs/zh-cn/developer-guide.md`](./docs/zh-cn/developer-guide.md)
-
-## License
-
-This repository does not currently declare a license.
