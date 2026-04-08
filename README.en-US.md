@@ -1,6 +1,6 @@
 # Digital Vision Dashboard
 
-[中文说明](./README.zh-CN.md)
+[中文说明](./README.md)
 
 Digital Vision Dashboard is a React + TypeScript application for exploring mobile SoCs, comparing chip performance, and planning PC builds. It combines curated static datasets with Supabase authentication so users can save and revisit their hardware selections in a polished, dashboard-style interface.
 
