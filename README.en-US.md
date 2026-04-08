@@ -20,7 +20,7 @@ Digital Vision Dashboard is a React + TypeScript application for exploring mobil
 - Vite 7
 - React Router 7
 - Tailwind CSS 4 with custom CSS variables and handcrafted layout styles
-- ECharts 6 via `echarts-for-react`
+- ECharts 6 via Echarts-For-React
 - Supabase Auth + Postgres
 - Vitest, Testing Library, and Playwright
 
