@@ -1,4 +1,4 @@
-﻿import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { Link, Outlet, useLocation } from 'react-router-dom';
 
 import { HamburgerButton } from '@/components/HamburgerButton';
@@ -11,7 +11,6 @@ export function MainLayout() {
   const [theme, setTheme] = useState<ThemeMode>(() => resolveTheme());
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
   const desktopToggleRef = useRef<HTMLButtonElement | null>(null);
-  const mobileToggleRef = useRef<HTMLButtonElement | null>(null);
   const themeCleanupTimeoutRef = useRef<number | null>(null);
   const pendingThemeRef = useRef<ThemeMode | null>(null);
   const sidebarId = 'primary-sidebar';
@@ -154,20 +153,6 @@ export function MainLayout() {
               数码视界
             </Link>
           </div>
-          <button
-            ref={mobileToggleRef}
-            type="button"
-            aria-label="切换亮暗主题"
-            aria-pressed={isDarkThemeActive}
-            title={themeToggleTitle}
-            onClick={() => handleThemeToggle(mobileToggleRef.current)}
-            className="theme-toggle"
-          >
-            <span className="theme-toggle__track">
-              <span className="theme-toggle__thumb" />
-            </span>
-            <span className="theme-toggle__label hidden sm:inline">{themeToggleLabel}</span>
-          </button>
         </header>
         <main className="page-main">
           <Outlet />
