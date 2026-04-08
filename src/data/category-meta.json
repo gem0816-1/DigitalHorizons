@@ -1,0 +1,44 @@
+[
+  {
+    "category": "cpu",
+    "displayName": "CPU",
+    "icon": "cpu",
+    "description": "Core logic unit that shapes baseline compute and game frame pacing."
+  },
+  {
+    "category": "gpu",
+    "displayName": "GPU",
+    "icon": "gpu",
+    "description": "Primary graphics and AI acceleration engine for modern workloads."
+  },
+  {
+    "category": "motherboard",
+    "displayName": "Motherboard",
+    "icon": "motherboard",
+    "description": "Platform backbone that controls expansion, stability, and upgrade path."
+  },
+  {
+    "category": "ram",
+    "displayName": "RAM",
+    "icon": "memory",
+    "description": "Working memory capacity and speed for smooth multi-task execution."
+  },
+  {
+    "category": "ssd",
+    "displayName": "SSD",
+    "icon": "storage",
+    "description": "High-speed storage for OS responsiveness and game/application loading."
+  },
+  {
+    "category": "psu",
+    "displayName": "Power Supply",
+    "icon": "power",
+    "description": "Power delivery and safety component that protects all hardware."
+  },
+  {
+    "category": "case",
+    "displayName": "Case",
+    "icon": "case",
+    "description": "Thermal and acoustic enclosure that governs airflow efficiency."
+  }
+]

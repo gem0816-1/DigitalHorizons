@@ -1,0 +1,62 @@
+[
+  {
+    "id": "wd-sn850x-1tb",
+    "category": "ssd",
+    "name": "WD Black SN850X 1TB",
+    "brand": "WD",
+    "price": 599,
+    "valueScore": 93,
+    "performanceScore": 95,
+    "specs": { "Interface": "PCIe 4.0", "Read": "7300MB/s", "Write": "6300MB/s" },
+    "jdUrl": "https://item.jd.com/100037384494.html",
+    "description": "Top-tier PCIe 4.0 SSD for gaming and production.",
+    "highlights": ["Excellent sustained throughput"],
+    "warnings": [],
+    "isWarning": false
+  },
+  {
+    "id": "solidigm-p44-pro-1tb",
+    "category": "ssd",
+    "name": "Solidigm P44 Pro 1TB",
+    "brand": "Solidigm",
+    "price": 569,
+    "valueScore": 92,
+    "performanceScore": 93,
+    "specs": { "Interface": "PCIe 4.0", "Read": "7000MB/s", "Write": "6500MB/s" },
+    "jdUrl": "https://item.jd.com/100061755401.html",
+    "description": "High-end SSD with robust random IO performance.",
+    "highlights": ["Strong all-around profile"],
+    "warnings": [],
+    "isWarning": false
+  },
+  {
+    "id": "crucial-p3-plus-1tb",
+    "category": "ssd",
+    "name": "Crucial P3 Plus 1TB",
+    "brand": "Crucial",
+    "price": 429,
+    "valueScore": 84,
+    "performanceScore": 76,
+    "specs": { "Interface": "PCIe 4.0", "Read": "5000MB/s", "Write": "3600MB/s" },
+    "jdUrl": "https://item.jd.com/100037178557.html",
+    "description": "Budget PCIe 4.0 upgrade for daily usage.",
+    "highlights": ["Good sale pricing"],
+    "warnings": ["Lower sustained write than premium drives"],
+    "isWarning": false
+  },
+  {
+    "id": "netac-nv7000-1tb",
+    "category": "ssd",
+    "name": "Netac NV7000 1TB",
+    "brand": "Netac",
+    "price": 379,
+    "valueScore": 76,
+    "performanceScore": 63,
+    "specs": { "Interface": "PCIe 4.0", "Read": "5000MB/s", "Write": "4500MB/s" },
+    "jdUrl": "https://item.jd.com/100063038278.html",
+    "description": "Low-cost SSD option for non-critical storage.",
+    "highlights": ["Very low cost"],
+    "warnings": ["Controller consistency can vary by batch"],
+    "isWarning": true
+  }
+]

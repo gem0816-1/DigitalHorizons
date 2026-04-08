@@ -1,0 +1,62 @@
+[
+  {
+    "id": "gskill-32g-6000-cl30",
+    "category": "ram",
+    "name": "G.SKILL 32GB DDR5-6000 CL30",
+    "brand": "G.SKILL",
+    "price": 799,
+    "valueScore": 92,
+    "performanceScore": 89,
+    "specs": { "Capacity": "32GB (16x2)", "Speed": "6000MT/s", "Latency": "CL30" },
+    "jdUrl": "https://item.jd.com/100073695950.html",
+    "description": "Sweet-spot DDR5 kit for gaming and creator workloads.",
+    "highlights": ["Excellent latency/value", "Wide platform compatibility"],
+    "warnings": [],
+    "isWarning": false
+  },
+  {
+    "id": "kingston-fury-32g-5600",
+    "category": "ram",
+    "name": "Kingston Fury 32GB DDR5-5600",
+    "brand": "Kingston",
+    "price": 699,
+    "valueScore": 90,
+    "performanceScore": 83,
+    "specs": { "Capacity": "32GB (16x2)", "Speed": "5600MT/s", "Latency": "CL36" },
+    "jdUrl": "https://item.jd.com/100046338721.html",
+    "description": "Stable DDR5 pair for mainstream users.",
+    "highlights": ["Good stability", "Simple plug-and-play"],
+    "warnings": [],
+    "isWarning": false
+  },
+  {
+    "id": "corsair-32g-6400",
+    "category": "ram",
+    "name": "Corsair Vengeance 32GB DDR5-6400",
+    "brand": "Corsair",
+    "price": 999,
+    "valueScore": 82,
+    "performanceScore": 92,
+    "specs": { "Capacity": "32GB (16x2)", "Speed": "6400MT/s", "Latency": "CL32" },
+    "jdUrl": "https://item.jd.com/100059846357.html",
+    "description": "High-frequency option for tuned systems.",
+    "highlights": ["High overclock headroom"],
+    "warnings": ["Premium pricing for small real-world gain"],
+    "isWarning": false
+  },
+  {
+    "id": "adata-xpg-16g-5200",
+    "category": "ram",
+    "name": "ADATA XPG 16GB DDR5-5200",
+    "brand": "ADATA",
+    "price": 329,
+    "valueScore": 78,
+    "performanceScore": 58,
+    "specs": { "Capacity": "16GB (8x2)", "Speed": "5200MT/s", "Latency": "CL40" },
+    "jdUrl": "https://item.jd.com/100056945420.html",
+    "description": "Budget kit for very tight build targets.",
+    "highlights": ["Low entry cost"],
+    "warnings": ["16GB can be limiting in modern workloads"],
+    "isWarning": true
+  }
+]

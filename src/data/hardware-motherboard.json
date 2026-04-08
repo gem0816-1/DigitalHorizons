@@ -1,0 +1,62 @@
+[
+  {
+    "id": "msi-b650m-mortar",
+    "category": "motherboard",
+    "name": "MSI B650M Mortar WiFi",
+    "brand": "MSI",
+    "price": 1399,
+    "valueScore": 91,
+    "performanceScore": 84,
+    "specs": { "Socket": "AM5", "Memory": "DDR5", "PCIe": "5.0" },
+    "jdUrl": "https://item.jd.com/100052335530.html",
+    "description": "Reliable AM5 board with balanced IO and VRM quality.",
+    "highlights": ["Great AM5 value", "Stable memory support"],
+    "warnings": [],
+    "isWarning": false
+  },
+  {
+    "id": "asus-tuf-b760m-plus",
+    "category": "motherboard",
+    "name": "ASUS TUF B760M-PLUS",
+    "brand": "ASUS",
+    "price": 1199,
+    "valueScore": 89,
+    "performanceScore": 80,
+    "specs": { "Socket": "LGA1700", "Memory": "DDR5", "M.2": "2 slots" },
+    "jdUrl": "https://item.jd.com/100059173190.html",
+    "description": "Mainstream Intel board with practical feature set.",
+    "highlights": ["Strong BIOS support", "Good IO layout"],
+    "warnings": [],
+    "isWarning": false
+  },
+  {
+    "id": "gigabyte-b650-aorus-elite",
+    "category": "motherboard",
+    "name": "Gigabyte B650 AORUS ELITE",
+    "brand": "Gigabyte",
+    "price": 1599,
+    "valueScore": 84,
+    "performanceScore": 86,
+    "specs": { "Socket": "AM5", "Memory": "DDR5", "LAN": "2.5GbE" },
+    "jdUrl": "https://item.jd.com/100057716156.html",
+    "description": "Feature-rich mid-range board for heavy IO users.",
+    "highlights": ["Robust VRM"],
+    "warnings": ["Slightly high for strict budget builds"],
+    "isWarning": false
+  },
+  {
+    "id": "colorful-b760m-frozen",
+    "category": "motherboard",
+    "name": "Colorful B760M Frozen",
+    "brand": "Colorful",
+    "price": 999,
+    "valueScore": 86,
+    "performanceScore": 72,
+    "specs": { "Socket": "LGA1700", "Memory": "DDR5", "M.2": "2 slots" },
+    "jdUrl": "https://item.jd.com/100060559812.html",
+    "description": "Entry DDR5 board for price-sensitive Intel builds.",
+    "highlights": ["Affordable DDR5 entry"],
+    "warnings": ["Limited expansion for future upgrades"],
+    "isWarning": false
+  }
+]

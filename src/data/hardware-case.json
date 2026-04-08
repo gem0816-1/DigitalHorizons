@@ -1,0 +1,62 @@
+[
+  {
+    "id": "lian-li-lancool-216",
+    "category": "case",
+    "name": "Lian Li Lancool 216",
+    "brand": "Lian Li",
+    "price": 699,
+    "valueScore": 92,
+    "performanceScore": 88,
+    "specs": { "Form": "ATX", "Fans": "2x160mm + 1x140mm", "Front": "Mesh" },
+    "jdUrl": "https://item.jd.com/100048735364.html",
+    "description": "High airflow case with easy cable routing.",
+    "highlights": ["Excellent thermal design", "Build-friendly interior"],
+    "warnings": [],
+    "isWarning": false
+  },
+  {
+    "id": "nzxt-h5-flow",
+    "category": "case",
+    "name": "NZXT H5 Flow",
+    "brand": "NZXT",
+    "price": 649,
+    "valueScore": 86,
+    "performanceScore": 82,
+    "specs": { "Form": "ATX", "Front": "Mesh", "Side": "Tempered Glass" },
+    "jdUrl": "https://item.jd.com/100048709008.html",
+    "description": "Clean aesthetic mid-tower with direct GPU airflow.",
+    "highlights": ["Compact footprint", "Good cable management"],
+    "warnings": [],
+    "isWarning": false
+  },
+  {
+    "id": "phanteks-xt-pro",
+    "category": "case",
+    "name": "Phanteks XT Pro Ultra",
+    "brand": "Phanteks",
+    "price": 499,
+    "valueScore": 90,
+    "performanceScore": 79,
+    "specs": { "Form": "ATX", "Fans": "4 included", "Front": "Mesh" },
+    "jdUrl": "https://item.jd.com/100083114098.html",
+    "description": "Value chassis with strong out-of-box airflow.",
+    "highlights": ["Many included fans", "Great value"],
+    "warnings": [],
+    "isWarning": false
+  },
+  {
+    "id": "budget-glass-case",
+    "category": "case",
+    "name": "Budget Full Glass Case",
+    "brand": "Generic",
+    "price": 199,
+    "valueScore": 34,
+    "performanceScore": 20,
+    "specs": { "Form": "ATX", "Front": "Closed Glass", "Fans": "1 included" },
+    "jdUrl": "https://jd.com/budget-glass-case",
+    "description": "Looks attractive but restricts airflow severely.",
+    "highlights": ["Low price", "Aesthetic look"],
+    "warnings": ["Poor thermals", "High noise under load"],
+    "isWarning": true
+  }
+]

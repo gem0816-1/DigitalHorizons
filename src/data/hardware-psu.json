@@ -1,0 +1,62 @@
+[
+  {
+    "id": "seasonic-focus-gx-750",
+    "category": "psu",
+    "name": "Seasonic Focus GX-750",
+    "brand": "Seasonic",
+    "price": 799,
+    "valueScore": 91,
+    "performanceScore": 90,
+    "specs": { "Wattage": "750W", "Efficiency": "80+ Gold", "Modular": "Full" },
+    "jdUrl": "https://item.jd.com/100053078735.html",
+    "description": "Reliable premium PSU with excellent transient response.",
+    "highlights": ["Long warranty", "Low ripple"],
+    "warnings": [],
+    "isWarning": false
+  },
+  {
+    "id": "corsair-rm850e",
+    "category": "psu",
+    "name": "Corsair RM850e",
+    "brand": "Corsair",
+    "price": 899,
+    "valueScore": 88,
+    "performanceScore": 92,
+    "specs": { "Wattage": "850W", "Efficiency": "80+ Gold", "Modular": "Full" },
+    "jdUrl": "https://item.jd.com/100062359593.html",
+    "description": "Great headroom for high-end GPU builds.",
+    "highlights": ["ATX 3.0 ready"],
+    "warnings": [],
+    "isWarning": false
+  },
+  {
+    "id": "cooler-master-mwe-650",
+    "category": "psu",
+    "name": "Cooler Master MWE 650 V2",
+    "brand": "Cooler Master",
+    "price": 449,
+    "valueScore": 85,
+    "performanceScore": 70,
+    "specs": { "Wattage": "650W", "Efficiency": "80+ Bronze", "Modular": "No" },
+    "jdUrl": "https://item.jd.com/100019078552.html",
+    "description": "Practical budget PSU for entry and mid-range systems.",
+    "highlights": ["Affordable", "Widely available"],
+    "warnings": ["Not ideal for future high-end GPUs"],
+    "isWarning": false
+  },
+  {
+    "id": "no-name-700w",
+    "category": "psu",
+    "name": "No-Name 700W Generic",
+    "brand": "Unknown",
+    "price": 169,
+    "valueScore": 20,
+    "performanceScore": 15,
+    "specs": { "Wattage": "700W", "Efficiency": "Unknown", "Protection": "Unknown" },
+    "jdUrl": "https://jd.com/700w-generic",
+    "description": "Unverified budget PSU with unclear protections.",
+    "highlights": ["Very cheap"],
+    "warnings": ["Potential safety risk", "Unstable output under load"],
+    "isWarning": true
+  }
+]

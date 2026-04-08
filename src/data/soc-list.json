@@ -1,0 +1,186 @@
+﻿[
+  {
+    "id": "snapdragon-8-elite-gen-5",
+    "name": "Snapdragon 8 Elite Gen 5",
+    "manufacturer": "Qualcomm",
+    "releaseYear": 2025,
+    "processNode": "3nm",
+    "cpuConfig": "2x Oryon Gen 3 Prime + 6x Oryon Gen 3 Performance",
+    "gpuName": "Adreno 840",
+    "npuName": "Hexagon",
+    "antutuScore": 3932243,
+    "geekbenchSingle": 3607,
+    "geekbenchMulti": 10732,
+    "gpuScore": 1040,
+    "powerEfficiency": 9.2,
+    "thermalRating": 8.9,
+    "category": "flagship",
+    "highlights": ["NanoReview 综合评分榜当前第 1 名", "安卓阵营游戏性能领先"],
+    "warnings": ["长时间高负载下需要更强散热支持"],
+    "devices": [
+      { "name": "OnePlus 15T", "brand": "OnePlus", "releaseDate": "2026-01" },
+      { "name": "Samsung Galaxy S26 Plus (Snapdragon)", "brand": "Samsung", "releaseDate": "2026-01" }
+    ]
+  },
+  {
+    "id": "a19-pro",
+    "name": "A19 Pro",
+    "manufacturer": "Apple",
+    "releaseYear": 2025,
+    "processNode": "3nm",
+    "cpuConfig": "2x Everest + 4x Sawtooth",
+    "gpuName": "Apple A19 Pro GPU",
+    "npuName": "Apple Neural Engine",
+    "antutuScore": 2606807,
+    "geekbenchSingle": 3992,
+    "geekbenchMulti": 10688,
+    "gpuScore": 1010,
+    "powerEfficiency": 9.6,
+    "thermalRating": 9.3,
+    "category": "flagship",
+    "highlights": ["在顶级芯片中拥有领先的 Geekbench 单核成绩", "能效表现优秀，续航更稳"],
+    "warnings": ["仅搭载于高端 iPhone 产品线"],
+    "devices": [
+      { "name": "Apple iPhone 17 Pro", "brand": "Apple", "releaseDate": "2025-09" },
+      { "name": "Apple iPhone 17 Pro Max", "brand": "Apple", "releaseDate": "2025-09" }
+    ]
+  },
+  {
+    "id": "dimensity-9500",
+    "name": "Dimensity 9500",
+    "manufacturer": "MediaTek",
+    "releaseYear": 2025,
+    "processNode": "3nm",
+    "cpuConfig": "1x C1-Ultra + 3x C1-Premium + 4x C1-Pro",
+    "gpuName": "Mali-G1 Ultra MP12",
+    "npuName": "MediaTek NPU 990",
+    "antutuScore": 3508681,
+    "geekbenchSingle": 3366,
+    "geekbenchMulti": 10603,
+    "gpuScore": 1020,
+    "powerEfficiency": 9.3,
+    "thermalRating": 8.8,
+    "category": "flagship",
+    "highlights": ["CPU 与 GPU 综合跑分均衡且很高", "具备 100 TOPS 级 AI 加速能力"],
+    "warnings": ["峰值性能表现受机身散热条件影响"],
+    "devices": [
+      { "name": "Honor Magic 8 Pro Air", "brand": "Honor", "releaseDate": "2025-10" },
+      { "name": "Vivo X300 Pro", "brand": "vivo", "releaseDate": "2025-10" }
+    ]
+  },
+  {
+    "id": "exynos-2600",
+    "name": "Exynos 2600",
+    "manufacturer": "Samsung",
+    "releaseYear": 2025,
+    "processNode": "2nm",
+    "cpuConfig": "1x C1-Ultra + 3x C1-Pro + 6x C1-Pro",
+    "gpuName": "Samsung Xclipse 960",
+    "npuName": "AI engine with 32K MAC NPU",
+    "antutuScore": 3145925,
+    "geekbenchSingle": 3455,
+    "geekbenchMulti": 11621,
+    "gpuScore": 1000,
+    "powerEfficiency": 8.8,
+    "thermalRating": 8.4,
+    "category": "flagship",
+    "highlights": ["在当前旗舰中多核性能表现强劲", "采用先进的 2nm 制程工艺"],
+    "warnings": ["不同地区机型可用性存在差异"],
+    "devices": [
+      { "name": "Samsung Galaxy S26 (Exynos)", "brand": "Samsung", "releaseDate": "2026-01" },
+      { "name": "Samsung Galaxy S26 Plus (Exynos)", "brand": "Samsung", "releaseDate": "2026-01" }
+    ]
+  },
+  {
+    "id": "snapdragon-8-elite-gen-4",
+    "name": "Snapdragon 8 Elite (Gen 4)",
+    "manufacturer": "Qualcomm",
+    "releaseYear": 2024,
+    "processNode": "3nm",
+    "cpuConfig": "2x Oryon (Phoenix L) + 6x Oryon (Phoenix M)",
+    "gpuName": "Adreno 830",
+    "npuName": "Hexagon",
+    "antutuScore": 3336910,
+    "geekbenchSingle": 3042,
+    "geekbenchMulti": 9377,
+    "gpuScore": 980,
+    "powerEfficiency": 9.3,
+    "thermalRating": 8.7,
+    "category": "flagship",
+    "highlights": ["平台成熟，旗舰机型采用范围广", "高端图形性能稳定"],
+    "warnings": ["2025-2026 年新一代芯片在峰值性能上已反超"],
+    "devices": [
+      { "name": "Realme GT 8 (China)", "brand": "realme", "releaseDate": "2025-01" },
+      { "name": "Asus ROG Phone 9 Pro", "brand": "ASUS", "releaseDate": "2024-11" }
+    ]
+  },
+  {
+    "id": "apple-a19",
+    "name": "Apple A19",
+    "manufacturer": "Apple",
+    "releaseYear": 2025,
+    "processNode": "3nm",
+    "cpuConfig": "2x Everest + 4x Sawtooth",
+    "gpuName": "Apple A19 GPU",
+    "npuName": "Neural Engine",
+    "antutuScore": 2239708,
+    "geekbenchSingle": 3757,
+    "geekbenchMulti": 9483,
+    "gpuScore": 950,
+    "powerEfficiency": 9.6,
+    "thermalRating": 9.1,
+    "category": "flagship",
+    "highlights": ["在主流旗舰定位中单核效率表现出色", "在 iOS 生态下持续性能调校成熟"],
+    "warnings": ["多核峰值相比安卓顶级芯片略低"],
+    "devices": [
+      { "name": "Apple iPhone 17", "brand": "Apple", "releaseDate": "2025-09" },
+      { "name": "Apple iPhone 17e", "brand": "Apple", "releaseDate": "2026-03" }
+    ]
+  },
+  {
+    "id": "dimensity-9500s",
+    "name": "Dimensity 9500s",
+    "manufacturer": "MediaTek",
+    "releaseYear": 2026,
+    "processNode": "3nm",
+    "cpuConfig": "1x Cortex-X925 + 3x Cortex-X4 + 4x Cortex-A720",
+    "gpuName": "Mali-G925 Immortalis MP12",
+    "npuName": "MediaTek NPU",
+    "antutuScore": 3041307,
+    "geekbenchSingle": 2877,
+    "geekbenchMulti": 9236,
+    "gpuScore": 960,
+    "powerEfficiency": 9.3,
+    "thermalRating": 8.8,
+    "category": "flagship",
+    "highlights": ["游戏级 GPU 性能输出很强", "旗舰级性能与功耗平衡良好"],
+    "warnings": ["当前市场可选机型仍相对有限"],
+    "devices": [
+      { "name": "Xiaomi Redmi Turbo 5 Max", "brand": "Xiaomi", "releaseDate": "2026-02" }
+    ]
+  },
+  {
+    "id": "dimensity-9400-plus",
+    "name": "Dimensity 9400 Plus",
+    "manufacturer": "MediaTek",
+    "releaseYear": 2025,
+    "processNode": "3nm",
+    "cpuConfig": "1x Cortex-X925 + 3x Cortex-X4 + 4x Cortex-A720",
+    "gpuName": "Mali-G925 Immortalis MP12",
+    "npuName": "MediaTek NPU 890",
+    "antutuScore": 2874956,
+    "geekbenchSingle": 2927,
+    "geekbenchMulti": 9000,
+    "gpuScore": 940,
+    "powerEfficiency": 9.3,
+    "thermalRating": 8.7,
+    "category": "flagship",
+    "highlights": ["在多款机型上都能保持高端跑分表现", "旗舰负载下整体能效表现优秀"],
+    "warnings": ["峰值分数低于更新的 9500/9500s 平台"],
+    "devices": [
+      { "name": "Vivo X200T", "brand": "vivo", "releaseDate": "2025-04" },
+      { "name": "Xiaomi Redmi K80 Ultra", "brand": "Xiaomi", "releaseDate": "2025-07" }
+    ]
+  }
+]
+
