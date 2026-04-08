@@ -20,7 +20,7 @@
 - Vite 7
 - React Router 7
 - Tailwind CSS 4 与自定义 CSS 变量、布局样式
-- ECharts 6 与 `echarts-for-react`
+- ECharts 6 与 Echarts-For-React
 - Supabase Auth + Postgres
 - Vitest、Testing Library、Playwright
 
